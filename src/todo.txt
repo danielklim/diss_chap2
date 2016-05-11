@@ -1,0 +1,31 @@
+policy enforcement
+- start in country somewhere... every period, deport with pr X%
+
+naturalization
+
+job creation
+
+validation of concept
+	- emigres vote for liberal politicians
+	- well-to-do do not migrate
+	- 
+
+classify different types of persons
+
+XX fix Person migrate/jobapply logic so that current city is included in decision
+XX fix job selection so that only apply to better fitting jobs
+XX look up models
+
+people should attach more weight to home city -- eCity f(wage + social?? + valence + political)
+different eCity functions
+
+
+=======================================
+
+
+UNDER WHAT CONDITIONS IS FLOW CONTROL EFFECTIVE??? -- craft gov intervention module in model
+to what extent do electoral politics affect flows
+General principles of when flows start and stop
+what is the effect of diffeent locations of policing:
+	at the border or further in, in the places where migrants settle. 
+	- above --> increase cost of entry through border enforcement, increased pr(deport) (i.e. at and inside borders)
